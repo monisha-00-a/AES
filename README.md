@@ -11,6 +11,7 @@ This project demonstrates **AES encryption and decryption** using Python-GUI bui
 
 ## Installation
 pip install pycryptodome
+pip install Tk
 
 
 
