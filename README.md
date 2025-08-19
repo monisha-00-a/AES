@@ -15,8 +15,10 @@ pip install Tk
 
 
 
-## visual studio code
+## visual studio code/ command line interface
 python AES.py
+
+
 
 
 
